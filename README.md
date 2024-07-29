@@ -2,7 +2,7 @@
 
 This is a section of the Cyfrin Solidity Course.
 
-This contract was deployed on ![**Sepolia Testnet**](https://sepolia.etherscan.io/address/0x647eadea897cbf47baede07c8b5a5229fa64d535)
+This contract was deployed on [**Sepolia Testnet**](https://sepolia.etherscan.io/address/0x647eadea897cbf47baede07c8b5a5229fa64d535)
 
 _[⭐️ Updraft | Foundry Fund Me](https://updraft.cyfrin.io/courses/foundry/foundry-fund-me/fund-me-project-setup)_
 
