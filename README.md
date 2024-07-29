@@ -2,6 +2,8 @@
 
 This is a section of the Cyfrin Solidity Course.
 
+This contract was deployed on ![**Sepolia Testnet**](https://sepolia.etherscan.io/address/0x647eadea897cbf47baede07c8b5a5229fa64d535)
+
 _[⭐️ Updraft | Foundry Fund Me](https://updraft.cyfrin.io/courses/foundry/foundry-fund-me/fund-me-project-setup)_
 
 - [Foundry Fund Me](#foundry-fund-me)
@@ -239,6 +241,4 @@ So, then you have two options:
 
 If you appreciated this, feel free to follow me or donate!
 
-[![Patrick Collins Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-miño/)
-
-<!-- Testing krunchdata https://kdta.io/b6T40  -->
+[![Christian Miño Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-miño/)
